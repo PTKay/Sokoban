@@ -2,3 +2,5 @@
  Implementation of the game Sokoban in Java, using ConsolePG.
  
  Made as the first project of the Object Oriented Programming class (2nd semester) at ISEL.
+ 
+ NOTE: Sounds used for the game were taken from the game "Metal Gear Solid 2" and all credits go to their respective owners.
